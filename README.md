@@ -1,6 +1,9 @@
-# Bitcoin_LSTM_predict
-Train keras LSTM to predict Bitcoin market price
+# Bitcoin Prediction using LSTM time series model 
 
-A baseline model to predict the bitcoin (BTC) price. I downloaded the 1 year price from https://www.blockchain.com/charts/market-price?timespan=1year
+This program trains a Keras based LSTM method to predict the recent Bitcoin market prices. This can be used as a baseline model to improve the prediction on BTC prices. 
 
-and trained a simple keras model. Please see the real price (red) vs the predicted (blue). 
+I downloaded the 1 year price from https://www.blockchain.com/charts/market-price?timespan=1year
+
+Figure shows the ground truth i.e. real price (red) vs the predicted bitcoin price (blue).
+
+![alt-text](http://github.com/msaadsadiq/Bitcoin_LSTM_Predict/blob/master/btc.png)
