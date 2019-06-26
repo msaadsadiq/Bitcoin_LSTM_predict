@@ -6,4 +6,4 @@ I downloaded the 1 year price from https://www.blockchain.com/charts/market-pric
 
 Figure shows the ground truth i.e. real price (red) vs the predicted bitcoin price (blue).
 
-![alt-text](http://github.com/msaadsadiq/Bitcoin_LSTM_Predict/blob/master/btc.png)
+![alt-text](https://github.com/msaadsadiq/Bitcoin_LSTM_predict/blob/master/btc.png)
